@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ChicagoPark.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://chicagopark.github.io/sitemap.xml
