@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-26 08:00:00-0400
+date: 2024-05-20 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I join Computational Imaging Group at [WashU](https://cigroup.wustl.edu/) as a PhD student.
+I join [Los Alamos National Laboratory](https://www.lanl.gov) as research intern, working with [Michael McCann](https://michael-t-mccann.github.io), [Cristina Garcia-Cardona](https://cnls.lanl.gov/External/people/Christina_Garcia-Cardona.php), and [Brendt Wohlberg](https://brendt.wohlberg.net).
