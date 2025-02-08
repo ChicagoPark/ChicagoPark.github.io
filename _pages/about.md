@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at [WashU](https://cigroup.wustl.edu/), fortunately working with [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/). I was a prior research intern at [Los Alamos National Laboratory](https://www.lanl.gov/) in 2024 summer. I graduated summa cum laude with a B.S. degree at [WashU](https://cigroup.wustl.edu/). My research interests lie at the intersection of generative models and their applications to medical and real-world problems.
+I am a first-year Ph.D. student in Computer Science at [WashU](https://cigroup.wustl.edu/), fortunately working with [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/). I was a prior research intern at [Los Alamos National Laboratory](https://www.lanl.gov/) in 2024 summer. I graduated summa cum laude with a B.S. degree at [WashU](https://cigroup.wustl.edu/). My research interests lie at the intersection of generative models and their applications to medical and real-world problems.
