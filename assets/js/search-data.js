@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-join-los-alamos-national-laboratory-as-research-intern-working-with-michael-mccann-cristina-garcia-cardona-and-brendt-wohlberg",
-          title: 'I join Los Alamos National Laboratory as research intern, working with Michael McCann,...',
+    },{id: "news-i-joined-los-alamos-national-laboratory-as-research-intern-working-with-michael-mccann-cristina-garcia-cardona-and-brendt-wohlberg",
+          title: 'I joined Los Alamos National Laboratory as research intern, working with Michael McCann,...',
           description: "",
           section: "News",},{id: "news-i-join-computational-imaging-group-at-washu-as-a-phd-student",
           title: 'I join Computational Imaging Group at WashU as a PhD student.',
