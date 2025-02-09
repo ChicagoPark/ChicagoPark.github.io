@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New arXiv [Random Walks with Tweedie: A Unified Framework for Diffusion Models](https://wustl-cig.github.io/randomwalk) available.
+New paper [Random Walks with Tweedie: A Unified Framework for Diffusion Models](https://wustl-cig.github.io/randomwalk) available.
