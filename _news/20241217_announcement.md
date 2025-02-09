@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper [Plug-and-Play Priors as a Score-Based Method](https://wustl-cig.github.io/scorepnp) available.
+New paper [Plug-and-Play Priors as a Score-Based Method](https://wustl-cig.github.io/scorepnp) available. 
