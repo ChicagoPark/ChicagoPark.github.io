@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Los Alamos National Laboratory](https://www.lanl.gov) as research intern, working with [Michael McCann](https://michael-t-mccann.github.io), [Cristina Garcia-Cardona](https://cnls.lanl.gov/External/people/Christina_Garcia-Cardona.php), and [Brendt Wohlberg](https://brendt.wohlberg.net).
+Joined [Los Alamos National Laboratory](https://www.lanl.gov) as research intern, working with [Michael McCann](https://michael-t-mccann.github.io), [Cristina Garcia-Cardona](https://cnls.lanl.gov/External/people/Christina_Garcia-Cardona.php), and [Brendt Wohlberg](https://brendt.wohlberg.net).
