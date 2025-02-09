@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Computational Imaging Group at [WashU](https://cigroup.wustl.edu/) as a PhD student.
+Joined Computational Imaging Group at [WashU](https://cigroup.wustl.edu/) as a PhD student.
