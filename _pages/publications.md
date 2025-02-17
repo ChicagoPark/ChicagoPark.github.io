@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: A complete list is available on <a href='https://scholar.google.com/citations?user=bovdw6kAAAAJ&hl=en'><b>Google Scholar</b></a>
-nav: false
+nav: true
 nav_order: 2
 ---
 
