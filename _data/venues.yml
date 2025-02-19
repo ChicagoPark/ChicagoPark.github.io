@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"CAMSAP":
+  color: "#FBD288"
+  url: https://ieeexplore.ieee.org/xpl/conhome/1001691/all-proceedings
+
+"arXiv":
+  color: "#A31D1D"
+  url: https://arxiv.org/
