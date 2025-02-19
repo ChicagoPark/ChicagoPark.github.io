@@ -32,3 +32,33 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Kamilov":
+  - firstname: ["Ulugbek", "Ulugbek S.", "Ulugbek S"]
+    url: https://ukmlv.github.io/
+
+"McCann":
+  - firstname: ["Michael T.", "Michael T"]
+    url: https://michael-t-mccann.github.io
+
+"Wohlberg":
+  - firstname: ["Brendt"]
+    url: https://brendt.wohlberg.net
+
+"Garcia-Cardona":
+  - firstname: ["Cristina"]
+    url: https://cnls.lanl.gov/External/people/Christina_Garcia-Cardona.php
+
+"Gan":
+  - firstname: ["Weijie"]
+    url: https://wjgancn.github.io/
+
+"Hu":
+  - firstname: ["Yuyang"]
+    url: https://hu-yuyang.github.io/
+
+"Shoushtari":
+  - firstname: ["Shirin"]
+    url: https://shirinsg.github.io/aboutme/
+
+
